@@ -1,0 +1,7 @@
+This sidecar's original implementation and adapted affect-model portions are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0):
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Affect-model math and behavioral structure are adapted from Drivesoid by A1batr055 (https://github.com/A1batr055/Drivesoid), licensed CC BY-NC-SA 4.0 from version 2.1.0 onward. This patch is a trimmed six-dimension adaptation; it is not endorsed by the Drivesoid author. Modifications are documented in `stage-35-affect.md` and this file.
+
+Copyright (c) 2026 A1batr055 for the adapted Drivesoid material. New sidecar implementation copyright remains with its respective author(s), under the same license for this combined adapted work.

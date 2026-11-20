@@ -1,0 +1,16 @@
+{
+  "fixture_file": "tests/fixtures/classifier_samples.json",
+  "results": [
+    {
+      "backend": "rules",
+      "model": null,
+      "samples": 22,
+      "accuracy": 1.0,
+      "correct": 22,
+      "cold_seconds": 0.0014767760000040653,
+      "warm_mean_seconds": 0.00008617085714355372,
+      "warm_median_seconds": 0.00008642800000302486,
+      "warm_p95_seconds": 0.00009128700000360837
+    }
+  ]
+}
